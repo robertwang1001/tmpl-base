@@ -1,6 +1,10 @@
 shellEmulator: true
 
 trustPolicy: no-downgrade
+trustPolicyExclude:
+  - chokidar@4.0.3
+  - semver@6.3.1
+  - '@yarnpkg/libzip@3.2.2'
 
 allowBuilds:
   better-sqlite3: true
