@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/robertwang1001/tmpl-base/compare/v1.0.0...v1.1.0) (2026-05-13)
+
+
+### Features
+
+* update the whole template ([f108f96](https://github.com/robertwang1001/tmpl-base/commit/f108f962cd656a61f5ab7fe5ad2a86ccccaa44db))
+
 ## 1.0.0 (2024-06-17)
 
 
