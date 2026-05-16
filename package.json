@@ -2,7 +2,7 @@
   "name": "tmpl-base",
   "type": "module",
   "version": "1.1.0",
-  "packageManager": "pnpm@11.1.0",
+  "packageManager": "pnpm@11.1.1",
   "description": "",
   "author": {
     "name": "Robert Wang",
