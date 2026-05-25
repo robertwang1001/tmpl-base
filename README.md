@@ -45,7 +45,7 @@ yarn add tmpl-base
 >   - Optional: more shared presets, check [robertwang1001/renovate-config](https://github.com/robertwang1001/renovate-config)
 > - **NPM Trusted Publishing**:
 >   - First time publishing, you need to manually publish by yourself with 2FA.
->   - After published, you need to configuring trusted publishing in the settings of the package, and configure in GitHub workflow of release: add permission `id-token: write`
+>   - After published, you need to configuring trusted publishing in the settings of the package, and configure in GitHub workflow of release: add permission `id-token: write`. Then future publishing will be automatically trusted, without using npm token.
 >
 >   For more details, check [NPM Trusted Publishing](https://docs.npmjs.com/trusted-publishers)
 
