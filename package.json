@@ -2,7 +2,7 @@
   "name": "tmpl-base",
   "type": "module",
   "version": "1.1.0",
-  "packageManager": "pnpm@11.21.0",
+  "packageManager": "pnpm@11.22.0",
   "description": "",
   "author": {
     "name": "Robert Wang",
@@ -39,11 +39,11 @@
     "@antfu/eslint-config": "^9.3.0",
     "@commitlint/cli": "^21.2.2",
     "@commitlint/config-conventional": "^21.2.2",
-    "@tsconfig/node24": "^24.0.4",
+    "@tsconfig/node24": "^24.0.5",
     "@types/node": "^24.13.3",
-    "@vitest/coverage-istanbul": "4.1.10",
+    "@vitest/coverage-istanbul": "4.1.11",
     "eslint": "^10.8.1",
-    "happy-dom": "^20.11.2",
+    "happy-dom": "^20.11.6",
     "lint-staged": "^17.3.0",
     "renovate": "^43.288.0",
     "rimraf": "^6.1.3",
@@ -51,7 +51,7 @@
     "tsx": "^4.23.12",
     "type-fest": "^5.8.0",
     "typescript": "^6.0.3",
-    "vitest": "^4.1.10"
+    "vitest": "^4.1.11"
   },
   "commitlint": {
     "extends": [
