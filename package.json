@@ -45,7 +45,7 @@
     "eslint": "^10.12.0",
     "happy-dom": "^20.14.6",
     "lint-staged": "^17.6.0",
-    "renovate": "^43.288.0",
+    "renovate": "^44.175.0",
     "rimraf": "^6.1.3",
     "simple-git-hooks": "^2.14.0",
     "tsx": "^4.23.15",
