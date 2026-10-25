@@ -43,7 +43,7 @@
     "@types/node": "^24.19.2",
     "@vitest/coverage-istanbul": "4.1.12",
     "eslint": "^10.13.0",
-    "happy-dom": "^20.14.6",
+    "happy-dom": "^21.0.4",
     "lint-staged": "^17.6.0",
     "renovate": "^43.288.0",
     "rimraf": "^6.1.3",
